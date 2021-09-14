@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
 	- Record customizable user information
 
   DESC
-  s.homepage = 'https://git.messangi.com/ogangi/messangisdkios/-/tree/master'
+  s.homepage = 'https://www.messangi.com/'
   s.license  = { :type => 'MIT', :file => 'LICENSE' }
   s.author   = { 'Messangi' => 'Messangi' }
   s.source   = { :http => 'https://github.com/messangi/MessangiSDK/releases/download/v0.0.1/MessangiSDK-0.0.1.zip' }
